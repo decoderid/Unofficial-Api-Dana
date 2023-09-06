@@ -1,9 +1,9 @@
 # Unofficial-Api-Dana
-Unofficial Dana Api
-
-Mohon maaf min, izin promosi:
-
 App Dana Versi Terakhir
+
+Full support selama 6 bulan jika deal.
+
+Fitur:
 
 1. Auto Login
 2. Refresh Token
@@ -14,7 +14,7 @@ App Dana Versi Terakhir
 7. Transfer Antar Nomor
 8. Logout
 
-Barang kali ada yang membutuhkan ini, silahkan japri saya atau bisa email ke:
+Barang kali ada yang membutuhkan ini, silahkan email ke:
 
 im@decoder.id
 
